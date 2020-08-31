@@ -25,7 +25,9 @@
   align-items: center;
   width: 40%;
   border: 1px solid lightgrey;
+  
 }
+
 
 .header__icon {
   margin-right: 5px;
@@ -46,4 +48,6 @@
 .header__input > input {
   flex: 1;
   border: none;
+  outline-width: 0;
+  margin-left: 20px;
 }
